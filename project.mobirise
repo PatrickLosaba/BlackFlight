@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -258,6 +258,54 @@
           },
           "title": "Mission",
           "meta": "<br>In order to market your product or service, it is imperative that you tailor your marketing and sales efforts to specifically reach the segment of population that will most likely buy your product or service. It is critical that you first determine or clearly identify your primary market. Your energies and funds can be spent more efficiently\n\nTaking the above theory into consideration where better to display and have your prestigious collections displayed and known to the Bourgeoisie and Upper Class guest who attend this event yearly and are all in one vicinity.<br><br>Our target market is the young social higer LSM, aimed at both male &amp; females whoes ages range from 18years to 60years and we focus more on the wealthy South Africans when marketing, however the event is open to anybody above the age of 18years.<br><br><b>Our market at the Durban July are people that are :</b><br><b>Affluential –</b> Rich and Socially influential \n\nSophisticated – having, revealing, or involving a great deal of worldy experience            and knowledge of <b>Fashion and Culture \n\nElegant –</b>&nbsp; Graceful and stylish in appearance or manner.\n\nThese are examples or the people who will be at the Durban July.&nbsp;<br><br><br>  \n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-9",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/neworeal-2000x701.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=LoBg6lUQPqY",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "&nbsp;L'Oréal",
+          "text": "For more than a century, L’Oréal has devoted itself solely to one business: beauty. It is a business rich in meaning, as it enables all individuals to express their personalities, gain self-confidence and open up to others.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.loreal.co.za/brands/loreal-luxe.htm\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
