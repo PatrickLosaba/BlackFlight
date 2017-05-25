@@ -1,0 +1,279 @@
+{
+  "settings": {
+    "name": "BlackFlightMedia",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 7,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/XLSXY7Flfts?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Black Flight Media",
+          "text": "Fragrances are entry level into designer wear, where at the top note this event is largely based on Fashion.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box5-3\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blackflightjulyexperence-full-banner-1400x554.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Introduction&nbsp;",
+          "meta": "<br>A Prestige event, “Color magic” the senses coincide,  sight and smell, amongst the most influential acts all seduced by scent at the heart note. A lingering sillage , the glitz ,and the glamor, the memories captured. The morning after the night before, with every hug meaning that much more. The mere presence to have longer lasting lingering impressions, and creating more meaningful interactions at the base note\n\nA fragrance that matches the personality of the man or woman who wears it is an integral part of the memory that you have of him or her. It goes without saying that it's a formidable weapon of seduction. \n\n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#faaf40"
+            }
+          },
+          "_anchor": "msg-box5-3",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2017-durban-july-theme-1400x1975.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "2017 Durban July Theme",
+          "text": "The Colour Of Magic Mystery<br><br>It is what occurs when we don’t yet have an explanation for something.\n\n",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.durbanjuly.info/2017-durban-july-theme.php\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1208-800x483.png",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1208.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1208-800x483.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1208.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1208-800x483.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1208.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1208-800x483.png",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1208.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mission",
+          "meta": "<br>In order to market your product or service, it is imperative that you tailor your marketing and sales efforts to specifically reach the segment of population that will most likely buy your product or service. It is critical that you first determine or clearly identify your primary market. Your energies and funds can be spent more efficiently\n\nTaking the above theory into consideration where better to display and have your prestigious collections displayed and known to the Bourgeoisie and Upper Class guest who attend this event yearly and are all in one vicinity.<br><br>Our target market is the young social higer LSM, aimed at both male &amp; females whoes ages range from 18years to 60years and we focus more on the wealthy South Africans when marketing, however the event is open to anybody above the age of 18years.<br><br><b>Our market at the Durban July are people that are :</b><br><b>Affluential –</b> Rich and Socially influential \n\nSophisticated – having, revealing, or involving a great deal of worldy experience            and knowledge of <b>Fashion and Culture \n\nElegant –</b>&nbsp; Graceful and stylish in appearance or manner.\n\nThese are examples or the people who will be at the Durban July.&nbsp;<br><br><br>  \n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4></h4><h3><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sponsorship Details</span></h3><h3><span style=\"color: inherit; font-size: 1.07rem; line-height: 1.5; font-weight: 500;\">Return On Investment</span></h3><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Not only will we promote your brands but we make sure we capture every moment for  you to use as promotional material or to keep as appraisal to the overroll Activation. \r\r\r</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Black Flight Media House (PTY) LTD is a widespread production brand which uses modern technology to provide cutting edge photography, cinematography and videography services while achieving world class production quality previously reserved for High budget productions.\r\rBlack Flight Media House (BFMH) is new in the aerial visual imaging industry but has been operating in events coordination, Brand promotions  photography/videography and marketing industries respectively. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are determined to create new technological trends in the local production and media industry and how best to deal with all client production need\r</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">As a sponsor, you will have first right of refusal when it comes to exposure and branding opportunities.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The exposure our sponsors receive is immensely important to us; you will be consulted on event planning and artwork layout in order to maximise the entire campaign.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">There will be no competing brands marketed at your event and we will ensure that our sponsors receive the required exclusivity.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your logo will appear prestigiously on all artwork.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your guests will receive exclusive invitations to the event.</span></li></ul><p></p><h5><br></h5><h5><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></h5><br><p></p>"
+        }
+      ]
+    }
+  }
+}
