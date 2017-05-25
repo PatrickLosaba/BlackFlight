@@ -422,6 +422,10 @@ h6,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box8-8 .mbr-section-title,
+#msg-box8-8 p {
+  color: #fff;
+}
 #content1-6 P {
   text-align: center;
 }

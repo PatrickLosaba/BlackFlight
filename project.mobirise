@@ -22,10 +22,14 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 7,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/black-flight-0-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -256,6 +260,40 @@
           "meta": "<br>In order to market your product or service, it is imperative that you tailor your marketing and sales efforts to specifically reach the segment of population that will most likely buy your product or service. It is critical that you first determine or clearly identify your primary market. Your energies and funds can be spent more efficiently\n\nTaking the above theory into consideration where better to display and have your prestigious collections displayed and known to the Bourgeoisie and Upper Class guest who attend this event yearly and are all in one vicinity.<br><br>Our target market is the young social higer LSM, aimed at both male &amp; females whoes ages range from 18years to 60years and we focus more on the wealthy South Africans when marketing, however the event is open to anybody above the age of 18years.<br><br><b>Our market at the Durban July are people that are :</b><br><b>Affluential –</b> Rich and Socially influential \n\nSophisticated – having, revealing, or involving a great deal of worldy experience            and knowledge of <b>Fashion and Culture \n\nElegant –</b>&nbsp; Graceful and stylish in appearance or manner.\n\nThese are examples or the people who will be at the Durban July.&nbsp;<br><br><br>  \n"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/black-flight-0-bnn-2000x655.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -271,7 +309,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h4></h4><h3><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sponsorship Details</span></h3><h3><span style=\"color: inherit; font-size: 1.07rem; line-height: 1.5; font-weight: 500;\">Return On Investment</span></h3><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Not only will we promote your brands but we make sure we capture every moment for  you to use as promotional material or to keep as appraisal to the overroll Activation. \r\r\r</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Black Flight Media House (PTY) LTD is a widespread production brand which uses modern technology to provide cutting edge photography, cinematography and videography services while achieving world class production quality previously reserved for High budget productions.\r\rBlack Flight Media House (BFMH) is new in the aerial visual imaging industry but has been operating in events coordination, Brand promotions  photography/videography and marketing industries respectively. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are determined to create new technological trends in the local production and media industry and how best to deal with all client production need\r</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">As a sponsor, you will have first right of refusal when it comes to exposure and branding opportunities.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The exposure our sponsors receive is immensely important to us; you will be consulted on event planning and artwork layout in order to maximise the entire campaign.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">There will be no competing brands marketed at your event and we will ensure that our sponsors receive the required exclusivity.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your logo will appear prestigiously on all artwork.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your guests will receive exclusive invitations to the event.</span></li></ul><p></p><h5><br></h5><h5><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></h5><br><p></p>"
+          "text": "<h4></h4><h3><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sponsorship Details</span></h3><h3><span style=\"color: inherit; font-size: 1.07rem; line-height: 1.5; font-weight: 500;\">Return On Investment</span></h3><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Not only will we promote your brands but we make sure we capture every moment for  you to use as promotional material or to keep as appraisal to the overroll Activation. \n\n\n</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Black Flight Media House (PTY) LTD is a widespread production brand which uses modern technology to provide cutting edge photography, cinematography and videography services while achieving world class production quality previously reserved for High budget productions.\n\nBlack Flight Media House (BFMH) is new in the aerial visual imaging industry but has been operating in events coordination, Brand promotions  photography/videography and marketing industries respectively. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are determined to create new technological trends in the local production and media industry and how best to deal with all client production need\n</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">As a sponsor, you will have first right of refusal when it comes to exposure and branding opportunities.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The exposure our sponsors receive is immensely important to us; you will be consulted on event planning and artwork layout in order to maximise the entire campaign.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">There will be no competing brands marketed at your event and we will ensure that our sponsors receive the required exclusivity.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your logo will appear prestigiously on all artwork.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your guests will receive exclusive invitations to the event.</span></li></ul><p></p><h5><br></h5><h5><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></h5><br><p></p>"
         }
       ]
     }
