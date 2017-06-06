@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -211,10 +211,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1208-800x483.png",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1208.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ion-b2-2000x1259-800x503.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ion-b2-2000x1259.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -224,7 +224,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4-2000x1208-800x483.png",
                 "image": "@PROJECT_PATH@/assets/images/4-2000x1208.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
@@ -269,7 +269,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/neworeal-2000x701.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/determination-and-skills-made-estee-lauder-company-big-2000x1111.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -291,7 +291,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=LoBg6lUQPqY",
+              "src": "https://www.youtube.com/watch?v=S3l5yuzp_Jk",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -303,9 +303,9 @@
               "size": 250
             }
           },
-          "title": "&nbsp;L'Oréal",
-          "text": "For more than a century, L’Oréal has devoted itself solely to one business: beauty. It is a business rich in meaning, as it enables all individuals to express their personalities, gain self-confidence and open up to others.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.loreal.co.za/brands/loreal-luxe.htm\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "&nbsp;Estée Lauder",
+          "text": "Discover Beauty at esteelauder.com, your destination for high-performance Skincare, Makeup, Fragrance, videos, more. Free Shipping &amp; Returns.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.esteelauder.co.za/\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
